@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about... how that's going
 - ⚡ Fun fact:... I have a 14 year old chinchilla. He might be immortal.
 
+---
 ### How to make a Github portfolio
 1. Go to your Github page and click to create a new repo
 2. Name that repo the same thing as your username (If your username is coolcode2000, name your repo that as well)
