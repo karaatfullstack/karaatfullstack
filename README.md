@@ -80,3 +80,15 @@ What we want our section to look like:
 
 - [Devicon](https://devicon.dev/) has development-specific icons
 - Here is a [list of HTML emojis](https://www.w3schools.com/charsets/ref_emoji.asp) that can be used as plain text
+
+The code I used to create that section is here:
+```
+<h2> &#127881; Tools and Technologies &#127881;</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" margin-left="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60" margin-left="10"/>
+</p>
+```
+
+- Additional inline CSS can be added to change the size of the emojis, add margin, etc.
