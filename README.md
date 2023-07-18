@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 
 4. Make sure to select PUBLIC as the type of repo, and to check the box that adds a README file
 5. Create your repo and head back to your main profile page - you'll see the file appear at the top!
-
+---
 ### How to make your page B-E-A-utiful
 1. Add images:
   - You can simply drag and drop images from your computer to Github, and it will be saved in your assets folder. Dropping the image will create an img tag in your README, which will have 'width' and 'alt' attributes that you can update to resize and change.
 
 2. Add gifs:
-  - Go to a site like giphy.com and choose a gif you like. For Giphy, click the three dots/ menu beneath the gif and select "embed code". That img element can be pasted in, and will look amazing.
-    <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/WhYILE0Ge1MS5WJq4R/video" width="480"></iframe></div> 
-    <iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/WhYILE0Ge1MS5WJq4R/video" width="480"></iframe>
+  - Go to a site like giphy.com and choose a gif you like. For Giphy, click the three dots/ menu beneath the gif and select "embed code".
+  - Don't paste the entire div into your README - instead copy the 'src' portion and put it into an img element. That img element will display your gif, and will look amazing.
+    <img alt="shocked face" src="https://giphy.com/embed/WhYILE0Ge1MS5WJq4R/video" />
