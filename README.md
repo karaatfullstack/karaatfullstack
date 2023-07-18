@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning ... how to make a github portfolio for my students
+- 💬 Ask me about... how that's going
+- ⚡ Fun fact: ... I have a 14 year old chinchilla. He might be immortal.
+
+### How to make a Github portfolio
+1. Go to your Github page and click to create a new repo
+2. Name that repo the same thing as your username. For example, if your username is coolcode2000, you will name your repo that
+3. If done correctly, a message will appear:
+<img width="827" alt="Github Readme" src="https://github.com/karaatfullstack/karaatfullstack/assets/116577743/1478056d-87ba-48de-b694-05471c52c76c">
