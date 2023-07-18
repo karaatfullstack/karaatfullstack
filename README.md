@@ -55,7 +55,7 @@ The standard code:
 
 So, to make a LinkedIn badge, this is the code and result:
 
-```![Badge Name](https://img.shields.io/badge/BadgeName-hexColorforBackground)```
+```![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)```
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)
 
