@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   - The other way is by going to a site like giphy.com and choosing a gif. Once selected, choose the "Embed" option
   - Don't paste the entire div into your README - instead right click on the image and select "copy image address". Create an img tag and place that address in your 'src' attribute - the img element will display your gif, and will look amazing.
  <p align="center">
-   <img alt="delightfully surprised" src="https://media4.giphy.com/media/3og0IPNcCRz8Tizbd6/giphy.gif?cid=ecf05e478lg12dq4ab01fvme5934hieky4l047ms89iy8fcv&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+   <img width="400" alt="delightfully surprised" src="https://media4.giphy.com/media/3og0IPNcCRz8Tizbd6/giphy.gif?cid=ecf05e478lg12dq4ab01fvme5934hieky4l047ms89iy8fcv&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
  </p>
 
  - Remember that when you're taking images you check that they are free to use! If a site requires you to link back to it, you can do so with an HTML anchor tag
@@ -50,7 +50,10 @@ Here are some ideas to get you started:
  3. Add badges:
 A badge is a logo image you can add to link other social media and portfolio sites.
 The standard code:
-```![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)```
+```![Badge Name](https://img.shields.io/badge/BadgeName-hexColorforBackground)```
+So, to make a LinkedIn badge, this is the code and result:
+
+```![Badge Name](https://img.shields.io/badge/BadgeName-hexColorforBackground)```
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)
 
