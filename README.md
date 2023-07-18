@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 2. Add gifs:
   - Go to a site like giphy.com and choose a gif you like. For Giphy, click the three dots/ menu beneath the gif and select "embed code".
   - Don't paste the entire div into your README - instead copy the 'src' portion and put it into an img element. That img element will display your gif, and will look amazing.
-    <img alt="shocked face" src="https://giphy.com/embed/WhYILE0Ge1MS5WJq4R/video" />
+    <img alt="shocked face" width="480" src="https://giphy.com/embed/WhYILE0Ge1MS5WJq4R/video" />
