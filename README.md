@@ -61,5 +61,9 @@ So, to make a LinkedIn badge, this is the code and result:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)
 
 - [Here is the site](https://simpleicons.org/) with all the SVG icons
-  
-<a href="https://www.linkedin.com/in/kara-cavanaugh/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2) </a>
+
+To make the badge link to a site, simply wrap it in an anchor tag, like so: 
+
+```<a href="https://www.linkedin.com/yourLinkedIn"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2) </a>```
+
+And now it's clickable: <a href="https://www.linkedin.com/in/kara-cavanaugh/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2) </a>
