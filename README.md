@@ -76,9 +76,9 @@ And now it's clickable: <a href="https://www.linkedin.com/in/kara-cavanaugh/"> !
 Example of how this section can be styled: 
 <h2> &#127881; Tools and Technologies &#127881;</h2>
 <p align="left">
-<img margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" margin="10"/>
-<img margin-left="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" margin="10"/>
-<img marginLeft="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60" margin="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/> &ensp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> &ensp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60"/> &ensp;
 </p>
 
 - [Devicon](https://devicon.dev/) has development-specific icons
@@ -88,10 +88,10 @@ The code I used to create that section is here:
 ```
 <h2> &#127881; Tools and Technologies &#127881;</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" margin-left="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60" margin-left="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/> &ensp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> &ensp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60" /> &ensp;
 </p>
 ```
 
-- Additional inline CSS can be added to change the size of the emojis, add margin, etc.
+- Some CSS can be added to change the size of the emojis, but Github doesn't allow all properties (like margin). To make spaces, I used an actual space character: `&ensp;`
