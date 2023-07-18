@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 5. Create your repo and head back to your main profile page - you'll see the file appear at the top!
 ---
 ## How to make your page B-E-A-utiful
+
+You can technically use CSS in most markdown files, but it's recommended you use actual markdown when you can. Here is a [basic style guide](https://www.markdownguide.org/basic-syntax/#overview) to get you started.
+
 ### #1 - Add images
   - You can simply drag and drop images from your computer to Github, and it will be saved in your assets folder. Dropping the image will create an img tag in your README, which will have 'width' and 'alt' attributes that you can update to resize and change.
 
@@ -74,8 +77,8 @@ Example of how this section can be styled:
 <h2> &#127881; Tools and Technologies &#127881;</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" margin-left="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60" margin-left="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" marginleft="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60" marginLeft="10"/>
 </p>
 
 - [Devicon](https://devicon.dev/) has development-specific icons
