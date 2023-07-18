@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ... how to make a github portfolio for my students
+- 🌱 I’m currently learning... how to make a github portfolio for my students
 - 💬 Ask me about... how that's going
-- ⚡ Fun fact: ... I have a 14 year old chinchilla. He might be immortal.
+- ⚡ Fun fact:... I have a 14 year old chinchilla. He might be immortal.
 
 ### How to make a Github portfolio
 1. Go to your Github page and click to create a new repo
@@ -59,4 +59,4 @@ So, to make a LinkedIn badge, this is the code and result:
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)
 
-[Here is the site](https://simpleicons.org/) with all the SVG icons
+- [Here is the site](https://simpleicons.org/) with all the SVG icons
