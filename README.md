@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 2. Add gifs:
   - Go to a site like giphy.com and choose a gif you like. For Giphy, click the three dots/ menu beneath the gif and select "Embed".
   - Don't paste the entire div into your README - instead copy the 'src' portion and put it into an img element. That img element will display your gif, and will look amazing.
- <img alt="delightfully surprised" src="https://giphy.com/embed/3og0IPNcCRz8Tizbd6"/>
- <iframe src="https://giphy.com/embed/3og0IPNcCRz8Tizbd6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tipsyelves-what-hey-3og0IPNcCRz8Tizbd6">via GIPHY</a></p>
+ <img alt="delightfully surprised" src="https://media4.giphy.com/media/3og0IPNcCRz8Tizbd6/giphy.gif?cid=ecf05e478lg12dq4ab01fvme5934hieky4l047ms89iy8fcv&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+ <img src="https://giphy.com/embed/3og0IPNcCRz8Tizbd6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
