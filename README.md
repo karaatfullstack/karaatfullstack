@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   - You can simply drag and drop images from your computer to Github, and it will be saved in your assets folder. Dropping the image will create an img tag in your README, which will have 'width' and 'alt' attributes that you can update to resize and change.
 
 2. Add gifs:
-  - Go to a site like giphy.com and choose a gif you like. For Giphy, click the three dots/ menu beneath the gif and select "embed code".
+  - Go to a site like giphy.com and choose a gif you like. For Giphy, click the three dots/ menu beneath the gif and select "Embed".
   - Don't paste the entire div into your README - instead copy the 'src' portion and put it into an img element. That img element will display your gif, and will look amazing.
-    <img alt="shocked face" width="480" src="https://giphy.com/embed/WhYILE0Ge1MS5WJq4R/video" />
-    ![Margot RObbie is shocked](https://giphy.com/embed/WhYILE0Ge1MS5WJq4R/video)
+ <img alt="delightfully surprised" src="https://giphy.com/embed/3og0IPNcCRz8Tizbd6"/>
+ <iframe src="https://giphy.com/embed/3og0IPNcCRz8Tizbd6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tipsyelves-what-hey-3og0IPNcCRz8Tizbd6">via GIPHY</a></p>
 
