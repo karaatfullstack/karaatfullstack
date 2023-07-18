@@ -49,8 +49,10 @@ Here are some ideas to get you started:
 
  3. Add badges:
 A badge is a logo image you can add to link other social media and portfolio sites.
+
 The standard code:
 ```![Badge Name](https://img.shields.io/badge/BadgeName-hexColorforBackground)```
+
 So, to make a LinkedIn badge, this is the code and result:
 
 ```![Badge Name](https://img.shields.io/badge/BadgeName-hexColorforBackground)```
