@@ -61,3 +61,5 @@ So, to make a LinkedIn badge, this is the code and result:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)
 
 - [Here is the site](https://simpleicons.org/) with all the SVG icons
+  
+<a href="https://www.linkedin.com/in/kara-cavanaugh/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2) </a>
