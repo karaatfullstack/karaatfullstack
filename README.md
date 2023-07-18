@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 A badge is a logo image you can add to link other social media and portfolio sites.
 The standard code:
 ```![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)```
-![LinkedIn](https://img.shields.io/linkedin/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
+![LinkedIn](https://img.shields.io/badge/linkedin?style=for-the-badge&logo=linkedin&logoColor=white)]
