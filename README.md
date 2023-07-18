@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ```
 
 3. Add badges:
+
 A badge is a logo image you can add to link other social media and portfolio sites.
 
 The standard code:
@@ -67,3 +68,12 @@ To make the badge link to a site, simply wrap it in an anchor tag, like so:
 ```<a href="https://www.linkedin.com/yourLinkedIn"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2) </a>```
 
 And now it's clickable: <a href="https://www.linkedin.com/in/kara-cavanaugh/"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2) </a>
+
+4. Adding technologies
+What we want our section to look like: 
+<h2> &#127881; Tools and Technologies &#127881;</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+</p>
