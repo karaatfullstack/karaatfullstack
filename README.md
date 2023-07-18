@@ -47,7 +47,7 @@ Here are some ideas to get you started:
  </p>
 ```
 
- 3. Add badges:
+3. Add badges:
 A badge is a logo image you can add to link other social media and portfolio sites.
 
 The standard code:
@@ -59,4 +59,4 @@ So, to make a LinkedIn badge, this is the code and result:
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)
 
-[Here is the site with all the SVG icons](https://simpleicons.org/)
+[Here is the site](https://simpleicons.org/) with all the SVG icons
