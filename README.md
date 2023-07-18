@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 2. Add gifs:
   - Go to a site like giphy.com and choose a gif you like. For Giphy, click the three dots/ menu beneath the gif and select "embed code". That img element can be pasted in, and will look amazing.
     <div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/WhYILE0Ge1MS5WJq4R/video" width="480"></iframe></div> 
+    <iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/WhYILE0Ge1MS5WJq4R/video" width="480"></iframe>
